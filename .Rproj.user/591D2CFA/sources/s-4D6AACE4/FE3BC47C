@@ -1,0 +1,24 @@
+{
+    "id": "FE3BC47C",
+    "path": "D:/User Folder/Desktop2/Projects/mycovid19/mycovid19/SIR_covid19-MY/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "708007051",
+    "contents": "",
+    "dirty": false,
+    "created": 1586744827040.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "117,65",
+        "scrollLine": "98"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1586755958,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1586755959094,
+    "read_only": false,
+    "read_only_alternatives": []
+}
